@@ -1,0 +1,23 @@
+{
+  "name": "RockPaperScissors-test-project",
+  "version": "1.0.0",
+  "description": "You will create a smart contract named `RockPaperScissors` whereby:  \r Alice and Bob can play the classic game of rock, paper, scissors using ERC20 (of your choosing).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjthug/RockPaperScissors-test-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjthug/RockPaperScissors-test-project/issues"
+  },
+  "homepage": "https://github.com/jjthug/RockPaperScissors-test-project#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.1"
+  }
+}
