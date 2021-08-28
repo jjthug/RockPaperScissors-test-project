@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RockPaperScissors test project
 
 You will create a smart contract named `RockPaperScissors` whereby:  
@@ -46,6 +45,3 @@ Nice to have, but not necessary.
 Now fork this repo and do it!
 
 When you're done, please send an email to zak@slingshot.finance (if you're not applying through Homerun) with a link to your fork or join the Slingshot Discord channel and let us know.
-
->>>>>>> a6898a1c69e7c5e324b3c52f2a7c73b77eb767be
-Happy hacking!
